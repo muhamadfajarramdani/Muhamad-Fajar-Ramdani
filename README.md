@@ -12,6 +12,6 @@ Saya siswa PPLG/RPL yang sedang mengembangkan aplikasi perpustakaan untuk tugas 
 
 ## 📁 Proyek Saya
 Berikut adalah salah satu proyek yang sedang saya kembangkan:
-👉 [Aplikasi Perpustakaan (React + API)](https://github.com/muhamadfajarramdani/perpustakaan-app)
+👉 [Aplikasi Perpustakaan (React + API)](https://github.com/muhamadfajarramdani/Perpustakaan-React)
 
 Terima kasih sudah mengunjungi profil saya! 🙌
